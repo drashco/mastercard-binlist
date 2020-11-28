@@ -7,5 +7,6 @@ BINList is a simple library for searching issuer Bank Identification Numbers (BI
 
 This library queries public REST API.
 
-> :warning: **This project is deprecated**. See [Mastercard](https://github.com/Mastercard) / [BinList](https://ecommthatworks.com/mastercard-bin-list/) and [Mastercard](https://github.com/Mastercard) / [client-encryption-php](https://github.com/Mastercard/client-encryption-php) instead.
+> :warning: **This project is deprecated**. See [Mastercard](https://github.com/Mastercard) / [BinList](https://ecommthatworks.com/mastercard-bin-list/) and [Mastercard](https://github.com/Mastercard).
 
+For those who are not programmers and just want to download BINLIST data directly from the MasterCard website, please check out detailed article on my blog [BinList](https://ecommthatworks.com/mastercard-bin-list/).
