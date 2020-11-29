@@ -9,4 +9,4 @@ This library queries public REST API.
 
 > :warning: **This project is deprecated**. See [Mastercard](https://github.com/Mastercard) / [BinList](https://ecommthatworks.com/mastercard-bin-list/) and [Mastercard](https://github.com/Mastercard).
 
-For those who are not programmers and only want to download up-to-date BINLIST database directly from the MasterCard website, please check out detailed article on my blog: [BinList](https://ecommthatworks.com/mastercard-bin-list/).
+For those who are not programmers and only want to download up-to-date BINLIST database directly from the MasterCard website, please check out detailed article on my blog: [ecommThatWorks.com](https://ecommthatworks.com/mastercard-bin-list/).
